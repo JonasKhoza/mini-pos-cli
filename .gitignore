@@ -1,0 +1,13 @@
+# CMake build output
+build/
+
+# Compiled artifacts
+*.o
+*.obj
+*.exe
+
+# Runtime / local data
+data/
+
+# Editor
+.vscode/
